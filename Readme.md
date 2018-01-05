@@ -10,7 +10,7 @@ Python 3.6 only.
 
 Run the script as such:
 ```bash
-python3 search_sauce.py urls.txt source_links.md
+python3 search_sauce.py <image urls file.txt> <output source links.md>
 ```
 
 **I did not write `saucenao.py`. I forgot where I got it from, though...**
